@@ -9,7 +9,7 @@
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/crazyflykite)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karpenkoartem2846@gmail.com)
 
-## About me 🙋
+## About Me 🙋
 
 - I'm **15** years old
 - I'm from **Mariupol**, **Ukraine** 🇺🇦
@@ -44,7 +44,7 @@
 - **KivyMD** for making Android apps
 - **MySQL Databases** for my Discord bots
 
-## What I use 🛠
+## What I Use 🛠
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)](https://dotnet.microsoft.com)
