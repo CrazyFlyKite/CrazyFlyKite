@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/873920068571000833)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/CrazyFlyKite)
 [![PyPI](https://img.shields.io/badge/PyPI-blue?style=for-the-badge&logo=pypi&logoColor=yellow)](https://pypi.org/user/CrazyFlyKite)
+[![ItchIO](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://pypi.org/user/CrazyFlyKite)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFAB1F)](https://leetcode.com/u/CrazyFlyKite)
 [![WCA](https://img.shields.io/badge/WCA-red?style=for-the-badge&logo=square&logoColor=white)](https://www.worldcubeassociation.org/persons/2023KARP01)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/crazyflykite)
@@ -41,8 +42,6 @@
 ## Currently Learning 🌱
 
 - **Spanish** 🇪🇸
-- **KivyMD** for making Android apps
-- **MySQL Databases** for my Discord bots
 
 ## What I Use 🛠
 
