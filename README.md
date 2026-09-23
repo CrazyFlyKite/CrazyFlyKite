@@ -41,7 +41,7 @@
 - **Python**
 - **C#/Unity**
 - **SQL**
-- - **Web development**
+- **Web development**
   - HTML 
   - CSS 
   - Javascript
