@@ -29,7 +29,7 @@
 
 ## My Best Projects 🚀
 
-- **[crazyflykite.com](crazyflykite.com)** - My website 🖥️
+- **[crazyflykite.com](https://crazyflykite.com)** - My website 🖥️
 - **[SeaGDPSBot](https://github.com/CrazyFlyKite/SeaGDPSBot)** - Discord bot for managing the official **[SeaGDPS Demonlist](https://crazyflykite.com/seagdps/demonlist)** 🌊
 - **[MorseCodePy](https://github.com/CrazyFlyKite/MorseCodePy)** - **PyPI** library for encoding/decoding to/from **Morse code** 📦
 - **[PastInfinity](https://github.com/CrazyFlyKite/PastInfinity)** - Discord bot for keeping track of the **count** in a channel with the leaderboard system 💯
